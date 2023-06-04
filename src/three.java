@@ -23,3 +23,4 @@ public class three {
         }else System.out.println("Ви ввели не дійсне число!");
     }
 }
+
